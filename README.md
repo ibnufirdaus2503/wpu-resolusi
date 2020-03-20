@@ -1,2 +1,6 @@
-# wpu-resolusi
-Repository untuk menyimpan rencana WPU kedepannya
+RENCANA KONTEN WPU
+
+-JAVASCRIPT
+-PHP 
+-INTERVIEW
+-VLOGS
